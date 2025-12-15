@@ -26,6 +26,8 @@ How to Run the Project Locally:
 2) Use the following command once in the appropriate directory: python -m http.server 8000
 3) Open a web browser and type in the following URL: http://localhost:8000/dashboard.html
 
+View Live Dashboard
+click here to see the interactive charts: [Live Dashboard](dashboard.html)
     
 Video Explanation
 This video provides a guided tour of the working dashboard, explaining the layout, the analytical purpose of each visualization, and the high-level technical structure.
